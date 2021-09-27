@@ -1,4 +1,4 @@
-# Hi, I'm Julia😊
+# Hi, I'm Júlia 🌼
 
 <img align="right" alt="GIF" height="160px" src=https://i.picasion.com/pic91/8a1390f544936cd885a0ebbe969bc54b.gif />
 
