@@ -1,4 +1,4 @@
-# Olá, eu sou a Júlia <img width="30px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
+# Olá, eu sou a Júlia <img width="30px" src=https://giphy.com/stickers/QWvra259h4LCvdJnxP />
 
 <img align="right" alt="GIF" height="160px" src=https://i.picasion.com/pic91/8a1390f544936cd885a0ebbe969bc54b.gif />
 
