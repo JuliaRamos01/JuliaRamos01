@@ -1,12 +1,11 @@
-# Olá, eu sou a Júlia😊
+# Hi, I'm Julia😊
 
 <img align="right" alt="GIF" height="160px" src=https://i.picasion.com/pic91/8a1390f544936cd885a0ebbe969bc54b.gif />
 
-## Estudante
-
-- 🌱 Aprendendo aos poucos
-- 🎓Formanda em Letras - Português/Literaturas
-- 🦄Ela/Dela
+- 🌱Learning slowly
+- 🎓UFRRJ
+- 🦄She/Her
+- 💻Back-end | Front-end
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julia-ramos-908/)
  <a href= "https://www.instagram.com/jujubstr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
