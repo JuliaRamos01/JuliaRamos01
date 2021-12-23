@@ -21,6 +21,6 @@
   <img align="center" alt="Ju-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
  </div>
   
-  ![Snake animation](https://github.com/JuliaRamos01/JuliaRamos01/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/JuliaRamos01/JuliaRamos1/blob/output/github-contribution-grid-snake.svg)
  
 
