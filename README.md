@@ -1,6 +1,6 @@
 # Hi, I'm Júlia 🌼
 
-<img align="right" alt="GIF" height="165px" src=https://i.picasion.com/pic92/ded46db46765d61c6bf36e96c313d976.gif />
+<img align="right" alt="GIF" height="160px" src=https://i.picasion.com/pic92/ded46db46765d61c6bf36e96c313d976.gif />
 
 - She/Her 🦄
 - Back-end | Front-end | Mobile 💻
