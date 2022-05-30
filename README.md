@@ -3,7 +3,7 @@
 - She/Her 🦄
 - Back-end | Front-end | Mobile 💻
 - Graduated at UFRRJ 🎓
-- Pizza ❤
+- Pizza 🍕
 
 <img align="right" alt="GIF" height="155px" src='https://i.picasion.com/pic92/ab3bd6a0b927eb649bd9d99fbbcdd267.gif'/>
 
