@@ -1,11 +1,9 @@
 # Hi, I'm Júlia 🌼
 
 - She/Her 🦄
-- Back-end | Front-end | Mobile 💻
 - Graduated at UFRRJ 🎓
 - Pizza 🍕
 
-<img align="right" alt="GIF" height="155px" src='https://i.picasion.com/pic92/ab3bd6a0b927eb649bd9d99fbbcdd267.gif'/>
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julia-ramos-908/)
 ---
