@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/JuliaRamos01/JuliaRamos01/blob/main/banner2.png" width="500">
+<img src="https://github.com/JuliaRamos01/JuliaRamos01/blob/main/banner3.png" width="900">
 </div>
 <br>
 <h2 align="center">💬About me</h2>
