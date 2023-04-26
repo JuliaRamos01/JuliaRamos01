@@ -1,8 +1,5 @@
-<h1 align="center">Hi, I'm Júlia Ramos 🌼</h1>
-<p align="center">‣ She/Her🌺
-<p align="center">‣ UFRRJ🎓</p>
 <div align="center">
-<img src="https://tenor.com/pt-BR/view/umaru-kawaii-typing-anime-gif-5580377.gif" width="400">
+<img src="https://github.com/JuliaRamos01/JuliaRamos01/blob/main/banner2.png" width="500">
 </div>
 <br>
 <h2 align="center">💬About me</h2>
